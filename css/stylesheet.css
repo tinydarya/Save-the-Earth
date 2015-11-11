@@ -1,0 +1,7 @@
+canvas {
+    display: block;
+}
+
+#canvasJet, #canvasBullet {
+    margin: -600px 0 0;
+}
